@@ -1,0 +1,16 @@
+body {
+    font-family: Source Sans Pro;
+    border: 20px solid #bdc3c7;
+    size: 60%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.blogpost-header {
+    border-left: 2px solid #bdc3c7;
+    margin: auto;
+}
+
+p {
+    padding: 20px;
+}
